@@ -66,8 +66,8 @@ function App() {
     },
     {
       id: 2,
-      image: "../public/images/small-mobile.png",
-      large: "../../public/images/large-mobile.png",
+      image: "images/small-mobile.png",
+      large: "images/large-mobile.png",
       author: "ტატო სამხარაძე",
       data: "02.11.2023",
       email: "lile.kvaratskhelia@redberry.ge",
@@ -99,8 +99,8 @@ function App() {
     },
     {
       id: 3,
-      image: "../public/images/small-mobile.png",
-      large: "../../public/images/large-mobile.png",
+      image: "images/small-mobile.png",
+      large: "images/large-mobile.png",
       author: "ხელოვნური სამხარაძე",
       data: "03.11.2023",
       email: "lile.kvaratskhelia@redberry.ge",
@@ -132,8 +132,8 @@ function App() {
     },
     {
       id: 4,
-      image: "../public/images/small-mobile.png",
-      large: "../../public/images/large-mobile.png",
+      image: "images/small-mobile.png",
+      large: "images/large-mobile.png",
       author: "კვლევა სამხარაძე",
       data: "03.11.2023",
       email: "lile.kvaratskhelia@redberry.ge",
@@ -159,8 +159,8 @@ function App() {
     },
     {
       id: 5,
-      image: "../public/images/small-mobile.png",
-      large: "../../public/images/large-mobile.png",
+      image: "images/small-mobile.png",
+      large: "images/large-mobile.png",
       author: "აპლიკაცია სამხარაძე",
       data: "03.11.2023",
       email: "lile.kvaratskhelia@redberry.ge",
