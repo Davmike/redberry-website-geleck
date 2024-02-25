@@ -39,8 +39,8 @@ function App() {
   const [data, setData] = useState<dataProps[]>([
     {
       id: 1,
-      image: "../public/images/small-mobile.png",
-      large: "../../public/images/large-mobile.png",
+      image: "images/small-mobile.png",
+      large: "images/large-mobile.png",
       author: "ლილე კვარაცხელია",
       data: "02.11.2023",
       email: "lile.kvaratskhelia@redberry.ge",
